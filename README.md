@@ -14,7 +14,7 @@ Follow these instructions to build, run, and start the project.
 git clone <repository-url>
 
 2. Navigate to the project directory:
-cd indian-agriculture-analytics
+cd (project-name)
 
 3. Install dependencies:
 npm install 
